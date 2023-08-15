@@ -1,0 +1,14 @@
+.text
+.global _start
+_start:
+	MOV r0, #4
+	MOV r1, #6
+
+	SUBS r2, r0, r1
+	
+	@ This should happen only if Negative flag is true (idk logic stuff)
+	MOV r3, #0xFFFFFFFF
+	SUB r3, r2
+	
+	MOV r7, #1
+	SWI 0
