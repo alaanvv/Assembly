@@ -14,6 +14,7 @@ assembly in 3
 
 - [Emulator](https://cpulator.01xz.net/?sys=arm-de1soc)
 - [Tutorial](https://www.youtube.com/watch?v=gfmRrPjnEw4)
+- [The Game](https://store.steampowered.com/app/370360/TIS100/?gclid=CjwKCAjwxOymBhAFEiwAnodBLK_cJQZ8_PAB93PWwDDUWnwDWW6wIREAQII99SLPlPnojmw5HAfVrRoCLNMQAvD_BwE)
 
 ## Todo (when I can ToT)
 
