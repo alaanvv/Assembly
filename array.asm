@@ -1,7 +1,4 @@
-.global _start
-_start:
-	
-	.data
+.data
 list:
 	.word 1, 2, 3, 4, 5, 6, 7, 8, 9
 
