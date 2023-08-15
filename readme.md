@@ -9,3 +9,16 @@ cuz I'm using a complex web emulator as a boomer
 and also I want to save it for later, like, when  
 I learn something that can turn my 80 lines of  
 assembly in 3
+
+## Useful links
+
+- [Emulator](https://cpulator.01xz.net/?sys=arm-de1soc)
+- [Tutorial](https://www.youtube.com/watch?v=gfmRrPjnEw4)
+
+## Todo (when I can ToT)
+
+- A compiler and a programming language (maybe in 2058)
+- An app with a window
+- Something that can interact with dispositives (like in that emulator)
+- My own assembler
+- Get what commands are passing by my processor and modify it
