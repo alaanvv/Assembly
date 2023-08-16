@@ -1,6 +1,6 @@
 # I don't know assembly
 
-<img width='10%' src='https://media.tenor.com/-wrmUJrUbeoAAAAC/emoji-disintergrating.gif'>
+<img width='40%' src='https://media.tenor.com/-wrmUJrUbeoAAAAC/emoji-disintergrating.gif'>
 
 I just played a game about and found it funny,  
 so I'll do idiot things with it  
@@ -18,6 +18,7 @@ assembly in 3
 
 - [Emulator](https://cpulator.01xz.net/?sys=arm-de1soc)
 - [Tutorial](https://www.youtube.com/watch?v=gfmRrPjnEw4)
+- [Hex / Bin Converter](https://www.rapidtables.com/convert/number/hex-to-binary.html)
 - [The Game](https://store.steampowered.com/app/370360/TIS100/?gclid=CjwKCAjwxOymBhAFEiwAnodBLK_cJQZ8_PAB93PWwDDUWnwDWW6wIREAQII99SLPlPnojmw5HAfVrRoCLNMQAvD_BwE)
 
 ## Todo (when I can ToT)
