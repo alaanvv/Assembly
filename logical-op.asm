@@ -6,18 +6,13 @@ _start:
 	@ EQUAL 0100001
 	
 	@ Because of this confusion using hex, the best way is using a single bit for boolean
-	@ There's no negation directlt as a comparation, what we have is Move negation (MVN),
+	@ There's no negation directly as a comparation, what we have is Move negation (MVN),
 	@ It moves stuff, but reverting all bits
 	
 	@ Two values to compare
 	MOV r0, #0xF0
 	MOV r1, #0x0F
-	
-	@ AND    => r2
-	@ ORR    => r3
-	@ EOR    => r4
-	@ MVN r0 => r5
-	@ MVN r1 => r6
+
 	AND r2, r0, r1
 	ORR r3, r0, r1
 	EOR r4, r0, r1
