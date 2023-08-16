@@ -1,0 +1,25 @@
+.global _start
+_start:
+	MOV r0, #0xF
+	
+	@ Shifting moves all bits one space (L or R)
+	@ Moving left does a multiplication by 2:
+	@ 1    0    0
+	@ 2^2  2^1  2^0
+	@ So this number is basically 2^2 = 4 = B100
+	@ Shifting to the left
+	@ 1    0    0    0
+	@ 2^3  2^2  2^1  2^0
+	@ 2^3 = 8 = B1000 = 2^2 (Anterior value) * 2
+	@ Moving to the right does the opposite, divides by 2
+	
+	@ Moving something out the register just causes it to disappear
+	MOV r1, r0, LSR #1 @ I can use the LS in front of the move, so I can keep the value with inline
+	MOV r2, r0,	LSL #1
+	
+	MOV r3, r0, ROR #4
+	@ To ROL (Rotate to left, use ROR 32-n)
+	MOV r4, r0, ROR #28
+	
+	MOV r7, #1
+	SWI #0
