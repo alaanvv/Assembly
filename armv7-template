@@ -1,5 +1,0 @@
-.global _start
-_start:
-	
-	MOV r7, #1
-	SWI #0
