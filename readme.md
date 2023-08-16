@@ -20,6 +20,7 @@ assembly in 3
 - [Tutorial](https://www.youtube.com/watch?v=gfmRrPjnEw4)
 - [Hex / Bin Converter](https://www.rapidtables.com/convert/number/hex-to-binary.html)
 - [The Game](https://store.steampowered.com/app/370360/TIS100/?gclid=CjwKCAjwxOymBhAFEiwAnodBLK_cJQZ8_PAB93PWwDDUWnwDWW6wIREAQII99SLPlPnojmw5HAfVrRoCLNMQAvD_BwE)
+- [Conditions with flags](https://azeria-labs.com/wp-content/uploads/2017/03/condition_codes.png.pagespeed.ce.TfjavTnUiW.png)
 
 ## Todo (when I can ToT)
 
