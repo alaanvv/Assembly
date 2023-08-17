@@ -15,6 +15,7 @@ average **Dark Souls** enjoyer
 - [Tutorial](https://www.youtube.com/watch?v=gfmRrPjnEw4)
 - [Hex / Bin Converter](https://www.rapidtables.com/convert/number/hex-to-binary.html)
 - [Conditions with flags](https://azeria-labs.com/wp-content/uploads/2017/03/condition_codes.png.pagespeed.ce.TfjavTnUiW.png)
+- [Notes](https://github.com/alaanvv/Assembly/blob/main/notes.md)
 
 ## Todo (when I can ToT)
 
