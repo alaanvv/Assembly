@@ -4,7 +4,7 @@
 
   <img width='10%' src='https://media.tenor.com/y4fTrFzujDYAAAAM/greenscreen-snap.gif&f=1&nofb=1&ipt=e0623f68ddc13a26e67f1343ebc9e06703c6a61d4ea751a18fcd20d8c519a57e&ipo=images'>
 
-  I just played [a game](https://store.steampowered.com/app/370360/TIS100/?gclid=CjwKCAjwxOymBhAFEiwAnodBLK_cJQZ8_PAB93PWwDDUWnwDWW6wIREAQII99SLPlPnojmw5HAfVrRoCLNMQAvD_BwE) about and found it funny,  
+  I just played [a game](https://store.steampowered.com/app/370360/TIS100/?gclid=CjwKCAjwxOymBhAFEiwAnodBLK_cJQZ8_PAB93PWwDDUWnwDWW6wIREAQII99SLPlPnojmw5HAfVrRoCLNMQAvD_BwE) about and tought twas funny,  
   so I'll do useless stuff with it, because I'm an  
   average **Dark Souls** enjoyer  
   (I don't even know what is possible to do with it)
